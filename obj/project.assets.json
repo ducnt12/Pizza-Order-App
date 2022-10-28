@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Documents\\GitHub\\RazorPizzaApp\\RazorPizzaApp.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Documents\\GitHub\\.net-core-app\\RazorPizzaApp.csproj",
       "projectName": "RazorPizzaApp",
-      "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\RazorPizzaApp\\RazorPizzaApp.csproj",
+      "projectPath": "C:\\Users\\USER\\Documents\\GitHub\\.net-core-app\\RazorPizzaApp.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Documents\\GitHub\\RazorPizzaApp\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Documents\\GitHub\\.net-core-app\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",

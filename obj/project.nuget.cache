@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Sdf0d+6ftumuLhJlGRl3HsvWN5A5SkS+eYayGi8U0zqjLq2MGtYmPh45Xst+fki6rOWPXQuMNkKDgJ+6E+K/IA==",
+  "dgSpecHash": "fWhWGG4O9j6sR3tpdko02ezsXnkud28GtQf/ZWSDKNrmCi8TqeA0ZbQO1M7of6m3AgIGCYhkgADVbLqIe9IUrA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Documents\\GitHub\\RazorPizzaApp\\RazorPizzaApp.csproj",
+  "projectFilePath": "C:\\Users\\USER\\Documents\\GitHub\\.net-core-app\\RazorPizzaApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
